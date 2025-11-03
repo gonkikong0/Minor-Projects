@@ -2,3 +2,5 @@ The repository consists a documentation of 3 minor-projects i made during my bac
 1. Movie Ticket Booking System
 2. Parking Management System
 3. Automated Report Card Generation System
+
+Some files may not open for preview on github website, feel free to download and access them.
